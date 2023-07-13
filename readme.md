@@ -1,0 +1,1 @@
+# A curated repository of all learning resources from stanfords CS224W course about machine learning with graphs, includes all reading materials from lectures and jupyter notebooks for assigned homeworks. Have fun learning!
