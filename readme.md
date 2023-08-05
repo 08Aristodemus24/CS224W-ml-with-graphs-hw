@@ -8,10 +8,10 @@ Date	Description	Optional Readings	Events	Deadlines
 Tue 1/10	1. Introduction
 [slides] **Done**
 Thu 1/12	2. Feature Engineering for ML in Graphs
-[slides] **currently in lecture 2.2**
+[slides] **currently in lecture 2.3**
 Efficient Graphlet Kernels for Large Graph Comparison
 Weisfeiler-lehman Graph Kernels
-Colab 0, Colab 1 out	
+Colab 0, Colab 1 out
 
 Tue 1/17	3. Node Embeddings
 [slides]	
