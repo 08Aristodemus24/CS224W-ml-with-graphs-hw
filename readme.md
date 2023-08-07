@@ -14,12 +14,12 @@ Weisfeiler-lehman Graph Kernels
 Colab 0, Colab 1 out
 
 Tue 1/17	3. Node Embeddings
-[slides]	
+[slides] **currently in lecture 3.2**
 DeepWalk: Online Learning of Social Representations
 node2vec: Scalable Feature Learning for Networks
 Network Embedding as Matrix Factorization
 Thu 1/19	4. Graph Neural Networks
-[slides]	
+[slides] **currently in lecture 6.1**
 Geometric Deep Learning: the Erlangen Programme of ML
 Semi-Supervised Classification with Graph Convolutional Networks
 Homework 1 out	
