@@ -119,5 +119,9 @@ Colab 5 due
 Thu 3/16	19. Conclusion
 [slides]			
 
+# References & articles:
+1. https://rish-16.github.io/posts/gnn-math/
+
+
 
 # Disclaimer: I do not own the resources, course material used in this repository all rights and credit go to Stanford University's instructors and curators of this online course
