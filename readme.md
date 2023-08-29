@@ -5,32 +5,32 @@
 
 Syllabus:
 Date	Description	Optional Readings	Events	Deadlines
-Tue 1/10	1. Introduction
-[slides] **Done**
-Thu 1/12	2. Feature Engineering for ML in Graphs
-[slides] **currently in lecture 2.3**
+Tue 1/10	1. Introduction lectures *1.1 to 1.3*
+[slides] **finished 1.1, 1.2, 1.3**
+Thu 1/12	2. Feature Engineering for ML in Graphs *lectures 2.1 to 2.3*
+[slides] **finished 2.1, 2.2** **pending 2.3**
 Efficient Graphlet Kernels for Large Graph Comparison
 Weisfeiler-lehman Graph Kernels
 Colab 0, Colab 1 out
 
-Tue 1/17	3. Node Embeddings
-[slides] **currently in lecture 3.2**
+Tue 1/17	3. Node Embeddings *lectures 3.1 to 5.3*
+[slides] **finished 3.2** **pending 3.3 to 5.3**
 DeepWalk: Online Learning of Social Representations
 node2vec: Scalable Feature Learning for Networks
 Network Embedding as Matrix Factorization
-Thu 1/19	4. Graph Neural Networks
-[slides] **currently in lecture 6.1**
+Thu 1/19	4. Graph Neural Networks *lectures 6.1 to 6.3*
+[slides] **finished 6.1, 6.2, 6.3**
 Geometric Deep Learning: the Erlangen Programme of ML
 Semi-Supervised Classification with Graph Convolutional Networks
 Homework 1 out	
 
-Tue 1/24	5. A General Perspective on GNNs
-[slides]	
+Tue 1/24	5. A General Perspective on GNNs *lectures 7.1 to 7.3*
+[slides] **finished 7.1, 7.2** **pending 7.3**
 Design Space of Graph Neural Networks
 Inductive Representation Learning on Large Graphs
 Graph Attention Networks
-Thu 1/26	6. GNN Augmentation and Training
-[slides]	
+Thu 1/26	6. GNN Augmentation and Training *lectures 8.1 to 
+[slides] **finished 
 Hierarchical Graph Representation Learning with Differentiable Pooling
 Colab 2 out	Colab 1 due
 
